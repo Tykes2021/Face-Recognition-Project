@@ -1,0 +1,56 @@
+body
+
+{
+
+  color: rgb(120, 255, 74);
+
+  background: rgb(73, 141, 173);
+
+}
+
+h3
+
+{
+
+  width: 80%;
+
+  font-size: 22px;
+
+  background-color: rgb(73, 141, 173);
+
+  color:rgb(180, 251, 223);
+
+  font-weight: bold;
+
+}
+
+#camera
+
+{
+  border: 2px dashed black;
+
+  width: 350px;
+
+  height: 300px; 
+
+}
+
+.name_of_objects, #result_object_name  , #result_object_accuracy
+
+{
+
+  color: rgb(224, 43, 70);
+
+  font-size: 20px;
+
+}
+
+button
+
+{
+
+width: 120px;
+
+height: 50px;
+
+}
